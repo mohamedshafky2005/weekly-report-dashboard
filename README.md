@@ -1,4 +1,10 @@
 # 📊 Weekly Report Management System
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
+![React](https://img.shields.io/badge/React-18-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![JWT](https://img.shields.io/badge/JWT-Authentication-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A full-stack **Weekly Report Management System** developed using **Spring Boot**, **React.js**, and **MySQL**. The system enables organizations to manage weekly reports, projects, and team assignments through secure role-based authentication and interactive dashboards.
 
